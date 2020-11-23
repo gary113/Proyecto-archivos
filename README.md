@@ -1,5 +1,3 @@
-Proyecto para la gestión de archivos
+# Proyecto para la gestión de archivos
 
-Colaboradores:
-
-Candia Nina, Gary Alberto
+Proyecto personal para gestión de archivos con java en Netbeans
